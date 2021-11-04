@@ -1,0 +1,21 @@
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.exe.config
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.exe
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.xml
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\_201901251039_TOBI_UTS.LoginForm.resources
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\_201901251039_TOBI_UTS.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.exe
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.xml
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.exe.config
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\bin\Debug\201901251039_TOBI_UTS.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\_201901251039_TOBI_UTS.LoginForm.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\_201901251039_TOBI_UTS.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\201901251039_TOBI_UTS.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_UTS\201901251039_TOBI_UTS\obj\x86\Debug\_201901251039_TOBI_UTS.KaryawanForm.resources
